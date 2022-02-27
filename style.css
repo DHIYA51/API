@@ -1,0 +1,15 @@
+.obj {
+    background-color: skyblue;
+    padding: 2em;
+}
+
+#head {
+    margin: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: brown
+}
+
+html {
+    font-size: 15px;
+    font-weight: 30;
+}
